@@ -1,0 +1,10 @@
+{
+  "id": 172832327,
+  "created_at": "2026-10-18T21:48:26.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["Cardinalverse.r-universe.dev"]
+}
