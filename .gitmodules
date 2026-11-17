@@ -11,6 +11,9 @@
 [submodule "CardinalIO"]
 	path = CardinalIO
 	url = https://github.com/Cardinalverse/CardinalIO
+[submodule "CardinalStats"]
+	path = CardinalStats
+	url = https://github.com/Cardinalverse/CardinalStats
 [submodule "CardinalWorkflows"]
 	path = CardinalWorkflows
 	url = https://github.com/Cardinalverse/CardinalWorkflows
